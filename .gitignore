@@ -23,6 +23,7 @@ go.work.sum
 
 # env file
 .env
+/.idea
 /.idea/modules.xml
 /.idea/go.generic.iml
 /.idea/vcs.xml
